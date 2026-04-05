@@ -48,7 +48,7 @@ Key engineered features:
 
 ## 📌 Key Insights
 
-* XGBoost achieved the best performance
+* XGBoost achieved the best performance but considering the computaional costs we can choose LightGBM
 * Feature engineering significantly improved accuracy
 * Environmental & societal factors strongly influence flood risk
 
